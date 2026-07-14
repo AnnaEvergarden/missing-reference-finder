@@ -1,0 +1,20 @@
+﻿{
+  "name": "com.azurline.missing-reference-finder",
+  "version": "1.0.0",
+  "displayName": "Missing Reference Finder",
+  "description": "Scans your Unity project for broken asset references, missing scripts, and orphaned component links. One click to find every 'Missing' in your prefabs, scenes, ScriptableObjects, and materials.",
+  "unity": "2021.3",
+  "keywords": [
+    "missing",
+    "reference",
+    "finder",
+    "asset",
+    "broken",
+    "cleanup",
+    "editor"
+  ],
+  "author": {
+    "name": "Yuxuan Xie",
+    "url": "https://github.com/YuxuanXie/missing-reference-finder"
+  }
+}
