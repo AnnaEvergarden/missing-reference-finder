@@ -1,4 +1,4 @@
-﻿# Missing Reference Finder
+# Missing Reference Finder
 
 A Unity Editor tool that finds every broken asset reference and missing script in your project — in one click.
 
@@ -17,7 +17,7 @@ A Unity Editor tool that finds every broken asset reference and missing script i
 
 1. Open `Window > Package Manager`
 2. Click `+` → `Add package from git URL...`
-3. Enter: `https://github.com/YuxuanXie/missing-reference-finder.git`
+3. Enter: `https://github.com/AnnaEvergarden/missing-reference-finder.git`
 
 ### Manual
 
